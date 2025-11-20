@@ -2,7 +2,15 @@
 Všechny potřebné soubory by měly být uloženy ve složce *data*. Úlohy jsou seřazeny od jednodušších po složitější.
 
 
-## 1) **Citát dne**
+## 1) **Základní načtení souboru**
+Zkus stáhnout libovolný textový soubor a načíst ho. Vypiš jej řádek po řádku.
+
+Zkus také zjistit:
+ - z kolika řádků textu se soubor nachází?
+ - z kolika znaků se text souboru skládá?
+ - z kolik *slov* se text souboru skládá?
+
+## 2) **Citát dne**
 Vytvoř program, který generuje citát dne pro facebookovou stránku.
 
 Tato stránka postuje citát ve formátu:
@@ -23,10 +31,10 @@ Koupit psa je jediný způsob, jak získat za peníze lásku.
 
 ---
 
-## 2) **Výběr studentů** 
+## 3) **Výběr studentů** 
 Načti soubor *studenti.txt* (1 řádek = 1 student). 
 
-Vytvoř funkci, která na vstupu dostane název souboru a 1 číslo *n*. Program následně vypíše *n* náhodně ybraných unikátních jmen ze souboru.
+Vytvoř funkci, která na vstupu dostane název souboru a 1 číslo *n*. Program následně vypíše *n* náhodně vybraných unikátních jmen ze souboru.
 
 Dej si pozor, aby se vypsaná jména naopakovala.
 
@@ -43,7 +51,7 @@ Sabina
 
 ---
 
-## 3) **Kvíz z CSV** 
+## 4) **Kvíz z CSV** 
 Načti soubor `otazky.csv`.
 
 Vypiš uživateli tři náhodné otázky z tohoto souboru a dej mu na výběr z možností A, B, C. 
@@ -62,18 +70,19 @@ Odpověď: A
 
 ---
 
-## 4) **Zpracování textového souboru.**
+## 5) **Zpracování textového souboru.**
 Načti soubor *1984.txt*. Tvým úkolem bude analyzovat tento soubor a zjisti od něj několik zajímavostí.
 
 1. Zjisti, z kolika znaků se skládá celý děj 1984.
 2. Z kolika vět se text skládá? Můžeš počítat, že každá věta končí na ".", "?" nebo "!"
 3. Kolikrát se v textu nachází slovo "*newspeak*"?
 4. Uživatel ti zadá slovo. Spočítej, kolikrát se slovo v textu nachází.
+5. Jaké je nejčastější slovo knihy?
 
 ---
 
 
-## 5) **Šibenice**
+## 6) **Šibenice**
 Vytvoř hru šibenice, která vybere pro hádání náhodné slovo ze souboru slova.txt.
 
 Uživatel má na začátku 7 životů. Nemusíš vypisovat obrázek šibenice- stačí uživateli říct, kolik životů mu zbývá.
