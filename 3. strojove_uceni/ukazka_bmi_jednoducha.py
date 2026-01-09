@@ -1,5 +1,5 @@
 # Neuronová síť predikující BMI kategorii 
-# Jedná se pouze o učební ukázku (jak by tento kód vytvořil zkušený programátor najdete v ukazka_bmi_slozitejsi.py)
+# Jedná se pouze o učební ukázku
 
 import csv
 
@@ -57,3 +57,4 @@ for i in range(len(vysledek)):
 print(correct / len(results))
 
 print(confusion_matrix(test_Y, vysledek))
+
