@@ -1,5 +1,5 @@
 # Neuronová síť predikující BMI kategorii 
-# Jedná se pouze o učební ukázku
+# Jedná se pouze o učební ukázku - pro BMi je jinak využití neuronky nevhodné
 
 import csv
 
