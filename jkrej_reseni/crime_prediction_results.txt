@@ -1,0 +1,405 @@
+LAYERS: (32, 24, 16)
+
+Average result: 39.714%
+Median of results: 40.714285714285715%
+Mode of results: 41.42857142857143%
+Best result: 44.285714285714285%
+Worst result: 28.57142857142857%
+Population Variance: 15.837
+
+LAYERS: (24, 16, 8)
+
+Average result: 40.571%
+Median of results: 41.42857142857143%
+Mode of results: 41.42857142857143%
+Best result: 42.857142857142854%
+Worst result: 37.142857142857146%
+Population Variance: 3.347
+
+LAYERS: (24, 16, 8)
+
+Average result: 37.715%
+Median of results: 41.429%
+Mode of results: 41.429%
+Best result: 41.429%
+Worst result: 17.143%
+Population Variance: 53.553
+
+LAYERS: (128, 112, 96, 84)
+
+Average result: 40.0%
+Median of results: 41.429%
+Mode of results: 41.429%
+Best result: 44.286%
+Worst result: 28.571%
+Population Variance: 17.145
+
+LAYERS: (128, 112, 96, 84, 76, 56, 48, 32)
+
+Average result: 41.286%
+Median of results: 41.429%
+Mode of results: 41.429%
+Best result: 42.857%
+Worst result: 38.571%
+Population Variance: 1.0
+
+LAYERS: (128, 112, 96, 84, 76, 56, 48, 32)
+
+Average result: 41.0%
+Median of results: 41.429%
+Mode of results: 41.429%
+Best result: 42.857%
+Worst result: 37.143%
+Population Variance: 2.061
+
+LAYERS: (24, 16, 8)
+
+Average result: 69.143%
+Median of results: 68.571%
+Mode of results: 68.571%
+Best result: 71.429%
+Worst result: 68.571%
+Population Variance: 0.898
+
+LAYERS: (96, 64)
+
+Average result: 52.143%
+Median of results: 59.2855%
+Mode of results: 68.571%
+Best result: 70.0%
+Worst result: 31.429%
+Population Variance: 306.214
+
+LAYERS: (96, 64)
+
+Average result: 68.428%
+Median of results: 68.571%
+Mode of results: 68.571%
+Best result: 70.0%
+Worst result: 67.143%
+Population Variance: 0.592
+
+LAYERS: (96, 64)
+
+Average result: 65.428%
+Median of results: 67.857%
+Mode of results: 68.571%
+Best result: 70.0%
+Worst result: 51.429%
+Population Variance: 27.263
+
+LAYERS: (96, 64, 48, 32)
+
+Average result: 67.714%
+Median of results: 68.571%
+Mode of results: 68.571%
+Best result: 68.571%
+Worst result: 61.429%
+Population Variance: 4.57
+
+LAYERS: (96, 64, 48, 32)
+
+Average result: 69.286%
+Median of results: 69.286%
+Mode of results: 69.286%
+Best result: 70.0%
+Worst result: 68.571%
+Population Variance: 0.102
+
+LAYERS: (96, 64, 48, 32)
+
+Average result: 69.143%
+Median of results: 69.286%
+Mode of results: 69.286%
+Best result: 70.0%
+Worst result: 67.857%
+Population Variance: 0.286
+
+LAYERS: (96, 64, 48, 32)
+
+Average result: 38.214%
+Median of results: 39.286%
+Mode of results: 40.714%
+Best result: 40.714%
+Worst result: 31.429%
+Population Variance: 9.209
+
+LAYERS: (96, 64, 48, 32)
+
+Average result: 38.286%
+Median of results: 40.0%
+Mode of results: 40.714%
+Best result: 41.429%
+Worst result: 27.857%
+Population Variance: 16.347
+
+LAYERS: (96, 64, 48, 32, 24)
+
+Average result: 38.857%
+Median of results: 38.9285%
+Mode of results: 40.714%
+Best result: 42.857%
+Worst result: 35.0%
+Population Variance: 5.938
+
+LAYERS: (96, 64, 48, 32, 24)
+
+Average result: 36.286%
+Median of results: 37.5%
+Mode of results: 40.0%
+Best result: 40.0%
+Worst result: 29.286%
+Population Variance: 11.204
+
+LAYERS: (168, 128, 102, 96, 84)
+
+Average result: 36.143%
+Median of results: 35.3575%
+Mode of results: 39.286%
+Best result: 41.429%
+Worst result: 29.286%
+Population Variance: 12.98
+
+LAYERS: (168, 128, 102, 96, 84)
+
+Average result: 33.071%
+Median of results: 34.6425%
+Mode of results: 40.714%
+Best result: 40.714%
+Worst result: 12.857%
+Population Variance: 78.168
+
+LAYERS: (168, 128, 102, 96, 84)
+
+Average result: 34.785%
+Median of results: 40.714%
+Mode of results: 40.714%
+Best result: 40.714%
+Worst result: 17.857%
+Population Variance: 61.332
+
+LAYERS: (168, 128, 102, 96, 84)
+
+Average result: 36.286%
+Median of results: 36.429%
+Mode of results: 36.429%
+Best result: 42.143%
+Worst result: 27.143%
+Population Variance: 20.184
+
+LAYERS: (168, 128, 102, 96)
+
+Average result: 35.5%
+Median of results: 35.714%
+Mode of results: 35.714%
+Best result: 40.714%
+Worst result: 31.429%
+Population Variance: 8.066
+
+LAYERS: (168, 128)
+
+Average result: 33.5%
+Median of results: 35.7145%
+Mode of results: 37.143%
+Best result: 41.429%
+Worst result: 25.714%
+Population Variance: 27.089
+
+LAYERS: (168, 128)
+
+Average result: 36.786%
+Median of results: 38.214%
+Mode of results: 40.714%
+Best result: 40.714%
+Worst result: 28.571%
+Population Variance: 16.657
+
+LAYERS: (168, 128, 64, 22)
+
+Average result: 38.286%
+Median of results: 39.286%
+Mode of results: 39.286%
+Best result: 42.143%
+Worst result: 31.429%
+Population Variance: 9.203
+
+LAYERS: (168, 128, 102, 96, 84)
+
+Average result: 36.5%
+Median of results: 36.4285%
+Mode of results: 33.571%
+Best result: 42.143%
+Worst result: 31.429%
+Population Variance: 13.108
+
+LAYERS: (168, 128, 102)
+
+Average result: 38.572%
+Median of results: 40.357%
+Mode of results: 40.714%
+Best result: 42.143%
+Worst result: 29.286%
+Population Variance: 14.081
+
+LAYERS: (168, 128, 102)
+
+Average result: 69.214%
+Median of results: 69.286%
+Mode of results: 69.286%
+Best result: 70.0%
+Worst result: 68.571%
+Population Variance: 0.148
+
+LAYERS: (168, 128, 102)
+
+Average result: 82.143%
+Median of results: 82.143%
+Mode of results: 82.143%
+Best result: 82.143%
+Worst result: 82.143%
+Population Variance: 0.0
+
+LAYERS: (168, 128, 102)
+
+Average result: 54.214%
+Median of results: 53.9285%
+Mode of results: 53.571%
+Best result: 59.286%
+Worst result: 50.714%
+Population Variance: 4.536
+
+LAYERS: (168, 128, 102)
+
+Average result: 55.643%
+Median of results: 56.0715%
+Mode of results: 55.0%
+Best result: 61.429%
+Worst result: 45.714%
+Population Variance: 24.232
+
+LAYERS: (168, 128, 102)
+
+Average result: 51.857%
+Median of results: 53.214%
+Mode of results: 53.571%
+Best result: 56.429%
+Worst result: 44.286%
+Population Variance: 10.836
+
+LAYERS: (168, 128, 102)
+
+Average result: 61.786%
+Median of results: 51.786%
+Mode of results: 46.429%
+Best result: 97.143%
+Worst result: 46.429%
+Population Variance: 367.773
+
+LAYERS: (168, 128, 102)
+
+Average result: 69.643%
+Median of results: 70.714%
+Mode of results: 46.429%
+Best result: 99.286%
+Worst result: 46.429%
+Population Variance: 426.247
+
+LAYERS: (168, 128, 102)
+
+Average result: 64.786%
+Median of results: 62.8575%
+Mode of results: 46.429%
+Best result: 90.714%
+Worst result: 46.429%
+Population Variance: 261.226
+
+LAYERS: (168, 128, 102)
+
+Average result: 55.257%
+Median of results: 50.0%
+Mode of results: 46.429%
+Best result: 89.286%
+Worst result: 46.429%
+Population Variance: 156.788
+
+LAYERS: (168, 128, 102)
+
+Average result: 52.9%
+Median of results: 53.571%
+Mode of results: 53.571%
+Best result: 55.0%
+Worst result: 47.143%
+Population Variance: 2.477
+
+LAYERS: (168, 128, 102)
+
+Average result: 52.186%
+Median of results: 53.571%
+Mode of results: 53.571%
+Best result: 58.571%
+Worst result: 44.286%
+Population Variance: 17.151
+
+LAYERS: (168, 128, 102)
+
+Average result: 52.243%
+Median of results: 52.857%
+Mode of results: 53.571%
+Best result: 55.714%
+Worst result: 45.0%
+Population Variance: 7.837
+
+LAYERS: (168, 128, 102)
+
+Average result: 51.086%
+Median of results: 51.429%
+Mode of results: 51.429%
+Best result: 57.143%
+Worst result: 42.143%
+Population Variance: 11.27
+
+LAYERS: (64, 48, 32)
+
+Average result: 52.314%
+Median of results: 52.857%
+Mode of results: 53.571%
+Best result: 55.714%
+Worst result: 42.143%
+Population Variance: 7.358
+
+LAYERS: (64, 48, 32, 24, 16)
+
+Average result: 52.957%
+Median of results: 53.571%
+Mode of results: 54.286%
+Best result: 55.714%
+Worst result: 40.0%
+Population Variance: 8.837
+
+LAYERS: (64, 48, 32, 24, 16)
+
+Average result: 53.486%
+Median of results: 54.286%
+Mode of results: 55.0%
+Best result: 55.714%
+Worst result: 46.429%
+Population Variance: 3.89
+
+LAYERS: (64, 48, 32, 24, 16)
+
+Average result: 52.857%
+Median of results: 52.857%
+Mode of results: 52.857%
+Best result: 52.857%
+Worst result: 52.857%
+Population Variance: 0.0
+
+LAYERS: (64, 48, 32, 24, 16)
+
+Average result: 54.286%
+Median of results: 54.286%
+Mode of results: 54.286%
+Best result: 54.286%
+Worst result: 54.286%
+Population Variance: 0.0
+
